@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5003f992-2bd3-47a0-81f4-bbdadca3f4f4}">
+		<property name="assetPath">
+			<value>63318__flag2__page-turn-please-turn-over-pto-paper-turn-over.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.95172335600907032</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bd88f99e-98d7-4e5e-b90e-de03fb9e4b51}</destination>
+		</relationship>
+	</object>
+</objects>
