@@ -25,15 +25,14 @@ rencontre, en fonction des différentes issues narratives.
 
 Intentions principales du prototype :
 Le joueur doit pouvoir lire l'intégralité de l'étape de rencontre dans laquelle il se situe. Le texte se sépare en plusieurs pages, constituées de mots
-classiques (pas intéractifs), des mots-clés mis en valeur dans le texte via un effet RichText (intéractifs) et des champs d'entrée où les mots-clés
+classiques (pas interactifs), des mots-clés mis en valeur dans le texte via un effet RichText (interactifs) et des champs d'entrée où les mots-clés
 viendront s'insérer pour passer à l'étape suivante. Actuellement, aucun choix par défaut n'a été développé, aussi seulement certaines options peuvent être
 utilisées (sans quoi le joueur reste bloqué tant qu'il n'utilise pas un mot adapté).
 Une fois la rencontre terminée, le joueur est invité à se déplacer sur la carte en 3D. Cette dernière autorise à se déplacer n'importe où dans l'unique but
 de montrer l'intégralité du niveau développé.
 
 Intentions pour la soutenance :
-Le texte doit pouvoir avancer peu importe le mot utilisé à chaque étape. Un ou plusieurs choix par défaut doivent donc être offerts au joueur afin de ne pas
-bloquer le récit si ce dernier n'utilise pas un mot précis. Il doit également pouvoir obtenir un choix par défaut en cas de réponse absurde.
+Le texte doit pouvoir avancer peu importe le mot utilisé à chaque étape. Un ou plusieurs choix par défaut doivent donc être offerts au joueur afin de ne pas bloquer le récit si ce dernier n'utilise pas un mot précis. Il doit également pouvoir obtenir un choix par défaut en cas de réponse absurde.
 Le jeu doit aussi inclure la barre d'engouement des enfants à qui Bilbo raconte son histoire.
 Enfin, un certain nombre de polish devra être effectués, tant au niveau des transitions, des feedbacks et du son que de l'affichage.
 
