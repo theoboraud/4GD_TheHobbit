@@ -36,3 +36,7 @@ Le texte doit pouvoir avancer peu importe le mot utilisé à chaque étape. Un o
 bloquer le récit si ce dernier n'utilise pas un mot précis. Il doit également pouvoir obtenir un choix par défaut en cas de réponse absurde.
 Le jeu doit aussi inclure la barre d'engouement des enfants à qui Bilbo raconte son histoire.
 Enfin, un certain nombre de polish devra être effectués, tant au niveau des transitions, des feedbacks et du son que de l'affichage.
+
+Bugs à fix :
+- Les alinéas ne s'affichant une fois le premier paragraphe passé
+- Les mots clés laissant parfois un espace après leur widget
