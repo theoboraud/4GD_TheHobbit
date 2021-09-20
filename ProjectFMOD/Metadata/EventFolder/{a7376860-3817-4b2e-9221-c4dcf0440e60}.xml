@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{a7376860-3817-4b2e-9221-c4dcf0440e60}">
+		<property name="note">
+			<value>Ce dossier contient tous les événements qui se lancent dans la partie Récit. Les sons se consistent surtout à des sons d'écriture (plume sur parchemin).</value>
+		</property>
+		<property name="name">
+			<value>Writing</value>
+		</property>
+		<relationship name="folder">
+			<destination>{364a4473-324d-4f24-8c8e-c66ab684e151}</destination>
+		</relationship>
+	</object>
+</objects>

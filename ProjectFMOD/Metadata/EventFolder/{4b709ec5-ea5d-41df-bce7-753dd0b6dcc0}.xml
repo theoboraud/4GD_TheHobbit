@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{4b709ec5-ea5d-41df-bce7-753dd0b6dcc0}">
+		<property name="note">
+			<value>Le dossier qui contient toutes les musiques du jeu. Nous séparons les musiques en deux dossiers : Moods et Stingers. 
+
+Moods sont les boucles musicales qui communiquent une certaine émotion indiqué par le nom de l'event.
+
+Les Stingers sont les phrases musicales qui sont placés normalement entre les Moods ou suite à la résolution d'une action.</value>
+		</property>
+		<property name="name">
+			<value>Music</value>
+		</property>
+		<relationship name="folder">
+			<destination>{364a4473-324d-4f24-8c8e-c66ab684e151}</destination>
+		</relationship>
+	</object>
+</objects>

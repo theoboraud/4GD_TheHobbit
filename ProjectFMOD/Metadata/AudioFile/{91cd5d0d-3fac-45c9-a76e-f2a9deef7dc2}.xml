@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{91cd5d0d-3fac-45c9-a76e-f2a9deef7dc2}">
+		<property name="assetPath">
+			<value>Birds, Songbird, Single Bird Chirping, Crickets, Flies SND8008.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5324479166666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bd88f99e-98d7-4e5e-b90e-de03fb9e4b51}</destination>
+		</relationship>
+	</object>
+</objects>
