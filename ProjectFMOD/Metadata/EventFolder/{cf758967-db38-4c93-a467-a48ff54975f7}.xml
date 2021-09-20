@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{cf758967-db38-4c93-a467-a48ff54975f7}">
+		<property name="note">
+			<value>Ce dossier contient les événements ambiants tangible. Les ambiances sont des enregistrements de nature ou de lieux.
+
+Retour : ajouter des variations pour rendre les ambiances plus vivantes</value>
+		</property>
+		<property name="name">
+			<value>Ambiances</value>
+		</property>
+		<relationship name="folder">
+			<destination>{364a4473-324d-4f24-8c8e-c66ab684e151}</destination>
+		</relationship>
+	</object>
+</objects>
