@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{53e02cf1-bfed-44cd-ad43-7de41bcdfd45}">
+		<property name="name">
+			<value>Stage</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b6179584-31ea-47d9-96d9-b0ba3af53e69}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{89e12283-7b16-4dff-8bc5-00bb1a137f31}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{89e12283-7b16-4dff-8bc5-00bb1a137f31}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.5</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
