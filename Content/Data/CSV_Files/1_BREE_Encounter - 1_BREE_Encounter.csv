@@ -1,41 +1,34 @@
 ---,Text,Outcomes
-start,"/a/Au sommet d’une petite butte, nous arrivâmes en vue de la ville de Bree. Bien que de petite taille comparée aux grandes villes du Sud, elle était la plus grande agglomération des terres désolées d’Eriador. En l’[observant|observer], je vis que les petites maisons humaines étaient surplombées par une colline parsemée de trous de Hobbit. Quelle étrange ville, en vérité ! À l’entrée de celle-ci se distinguait un bâtiment plus grand que les autres…
-/p/
-Le soir avançait alors que nous laissions les portes de la ville derrière nous. Les rues se vidaient déjà et toute l’activité affluait déjà vers le phare du bourg : l’auberge du Poney Fringant. Les nains, [Gandalf] et moi même rêvions d’[ingurgiter|consommer] quelque nourriture et le fumet appétissant flottant autour de l’auberge nous poussa à y [entrer].
+start,"/a/Au sommet d’une petite butte, nous arrivâmes en vue de la ville de Bree. Bien que de petite taille comparée aux grandes villes du Sud, elle était la plus grande agglomération des terres désolées d’Eriador. En l’[observant|observer], je vis que les petites maisons humaines étaient surplombées par une colline parsemée de trous de Hobbit. Quelle étrange ville, en vérité ! À l’entrée de celle-ci se distinguait un bâtiment plus grand que les autres…/p/
+/a/Le soir avançait alors que nous laissions les portes de la ville derrière nous. Les rues se vidaient déjà et toute l’activité affluait déjà vers le phare du bourg : l’auberge du Poney Fringant. Les nains, [Gandalf] et moi même rêvions d’[ingurgiter|consommer] quelque nourriture et le fumet appétissant flottant autour de l’auberge nous poussa à y [entrer].
 /p/
 /a/- “Passer par les marais ? Mais vous êtes fous ?” /l/
 La table voisine de notre Compagnie semblait agitée par d’intenses discussions./l/
 /a/- “Je préfère les marais à la Route de l’Est ! Elle est infestée de [bandits] et de choses pires encore !”/l/
-Il était désormais temps de mettre à profit cette soirée de repos. Ce que nous entendions semait le doute quant à la route à prendre le lendemain, mais les nains semblaient vouloir, pour une soirée, oublier leurs soucis. Les vieux nains dodelinaient de la tête, tandis que les jeunes frétillaient à l’idée d’une soirée festive./ll/
+/a/Il était désormais temps de mettre à profit cette soirée de repos. Ce que nous entendions semait le doute quant à la route à prendre le lendemain, mais les nains semblaient vouloir, pour une soirée, oublier leurs soucis. Les vieux nains dodelinaient de la tête, tandis que les jeunes frétillaient à l’idée d’une soirée festive./ll/
 
 /aa/- Oncle Bilbo, on veut de la bagarre ! Pourquoi nous parler d’une escale à la taverne ? /l/
 
 /aa/- Car, comme disait ce vieux [Balin], c’est parfois dans les endroits les plus ordinaires que l’on est amené à faire les choix les plus importants, mon petit ! Mais écoute plutôt :/ll/ 
 
-Retrouver la civilisation nous ayant manqué, de nombreuses envies secouèrent la Compagnie. /l/
-Parmi celles-ci, nous décidâmes de sortir de nos besaces des <____>...","((cartes, ""1_jouer""),(instrument, ""2_instrument""),(nourriture, ""3_consommer""))"
+/a/Retrouver la civilisation nous ayant manqué, de nombreuses envies secouèrent la Compagnie. /l/
+/a/Parmi celles-ci, nous décidâmes de sortir de nos besaces des <____>.../ll/{PLAY:fight_inn}","((cartes, ""1_jouer""),(instrument, ""2_instrument""),(nourriture, ""3_consommer""))"
 1_jouer,"/a/Parmi celles-ci, nous décidâmes de joindre l’utile à l’agréable en participant à une partie de cartes./ll/
-
-En effet, désireux d’en savoir plus sur la nature de la route à venir, les nains décidèrent de s’installer à la table voisine pour [glaner] des informations. Évidemment, ayant vu des cartes à jouer voler entre les mains de nos voisins, les suivants de [Thorin] furent d’autant plus motivés à rejoindre la table afin de se lancer dans une partie endiablée avec gain à la clé. Après tout, ce sont des nains. /ll/
-
-Des chaises, des [dés] et des pintes furent apportées à la table voisine, et [Bifur], [Bombur] ainsi que Balin prirent place. Gandalf les rejoint, les cartes furent distribuées, et la partie commença. /ll/
-
-L’esprit des joueurs attablés fumait et rejoignait les volutes s’échappant des pipes. Bombur, serein, prêtait autant attention au déroulement du jeu qu’aux saucissons présents sur la table. Autant dire qu’il était concentré. Balin, lui, semblait serein, un peu trop même. Quant à Bifur et Gandalf, ils se regardaient d’un œil malicieux, comme s’ils mijotaient quelque mauvais coup./ll/
-Après plusieurs tours, <___> décida de passer à l’action et tenter de remporter la partie.","((Balin, ""1.1_Balin""),(Bifur, ""1.2_Bifur""),(Bombur, ""1.3_Bombur""),(Gandalf, ""1.4_Gandalf""))"
+/a/En effet, désireux d’en savoir plus sur la nature de la route à venir, les nains décidèrent de s’installer à la table voisine pour [glaner|obtenir] des informations. Évidemment, ayant vu des cartes à jouer voler entre les mains de nos voisins, les suivants de [Thorin] furent d’autant plus motivés à rejoindre la table afin de se lancer dans une partie endiablée avec gain à la clé. Après tout, ce sont des nains. /ll/
+/a/Des chaises, des [dés] et des pintes furent apportées à la table voisine, et [Bifur], [Bombur] ainsi que Balin prirent place. Gandalf les rejoint, les cartes furent distribuées, et la partie commença. /ll/
+/a/L’esprit des joueurs attablés fumait et rejoignait les volutes s’échappant des pipes. Bombur, serein, prêtait autant attention au déroulement du jeu qu’aux saucissons présents sur la table. Autant dire qu’il était concentré. Balin, lui, semblait serein, un peu trop même. Quant à Bifur et Gandalf, ils se regardaient d’un œil malicieux, comme s’ils mijotaient quelque mauvais coup./ll/
+/a/Après plusieurs tours, <___> décida de passer à l’action et tenter de remporter la partie.","((Balin, ""1.1_Balin""),(Bifur, ""1.2_Bifur""),(Bombur, ""1.3_Bombur""),(Gandalf, ""1.4_Gandalf""))"
 1.1_Balin,"/a/Après plusieurs tours, Balin décida de passer à l’action et tenter de remporter la partie./ll/
-
-“TRIPLE-PASSE !” cria Balin en abattant ses cartes. De toute évidence, il venait de sortir d’un sommeil profond et n’avait pas du tout de quoi gagner. Les autres joueurs le regardèrent étrangement et Gandalf passa sa main sur son visage. La Compagnie avait perdu la partie. /ll/
-
-À la frustration des nains se rajoutèrent les moqueries des joueurs, raillant Balin en l’appelant “le sénile”. Celui-ci s'empourpra et les insultes commencèrent à fuser de part et d’autre, suivies de jets de nourriture - ce qui désola Bombur - puis de couverts./ll/
-
-C’est à ce moment que je vis une chope de bière finement gravée atteindre Dwalin, le nain le plus retors de l’équipe, en plein torse. Les vêtements souillés de la bière qui avait réussi à se maintenir dans le récipient tant bien que mal, il se leva, furieux. Dans ses yeux dansaient les flammes ardentes des forges naines. Je crus voir de la fumée sortir de ses narines. J’aurais, je crois, préféré affronter Smaug lui-même plutôt que Dwalin./l/
-“Baruk Khazâd ! Du Bekar !”, hurla-t-il avant de se jeter au cœur de la mêlée. Quelques nains s’élancèrent à sa suite dans une charge effrénée. /ll/
+/a/“TRIPLE-PASSE !” cria Balin en abattant ses cartes. De toute évidence, il venait de sortir d’un sommeil profond et n’avait pas du tout de quoi gagner. Les autres joueurs le regardèrent étrangement et Gandalf passa sa main sur son visage. La Compagnie avait perdu la partie. /ll/
+/a/À la frustration des nains se rajoutèrent les moqueries des joueurs, raillant Balin en l’appelant “le sénile”. Celui-ci s'empourpra et les insultes commencèrent à fuser de part et d’autre, suivies de jets de nourriture - ce qui désola Bombur - puis de couverts./ll/
+/a/C’est à ce moment que je vis une chope de bière finement gravée atteindre Dwalin, le nain le plus retors de l’équipe, en plein torse. Les vêtements souillés de la bière qui avait réussi à se maintenir dans le récipient tant bien que mal, il se leva, furieux. Dans ses yeux dansaient les flammes ardentes des forges naines. Je crus voir de la fumée sortir de ses narines. J’aurais, je crois, préféré affronter Smaug lui-même plutôt que Dwalin./ll/
+/a/“Baruk Khazâd ! Du Bekar !”, hurla-t-il avant de se jeter au cœur de la mêlée. Quelques nains s’élancèrent à sa suite dans une charge effrénée. /ll/
  
 /aa/- Trop bien ! /l/
 /aa/- Incroyable !/ll/
 
 /a/Ce fut en effet un impressionnant spectacle, qui ne peut se comparer à une petite rixe du Dragon Vert. Ici, les nains rendaient coup pour coup à des hommes qui les dépassaient de plusieurs têtes tandis que le tavernier prenait la sienne entre ses mains, se lamentant sur le sombre sort de sa taverne. Cependant, malgré leur entrain, mes compagnons étaient en infériorité numérique et commençaient à reculer. /ll/
-C’est à ce moment que l'équilibre se renversa, car un nouvel acteur entra en scène : <___>","((Balin, ""3.1_Balin""),(Gandalf, ""2.2_Gandalf""),(bandits, ""2.3_bandits""))"
+/a/C’est à ce moment que l'équilibre se renversa, car un nouvel acteur entra en scène : <___>","((Balin, ""3.1_Balin""),(Gandalf, ""2.2_Gandalf""),(bandits, ""2.3_bandits""))"
 1.2_Bifur,"/a/Après plusieurs tours, Bifur décida de passer à l’action et tenter de remporter la partie./ll/
 
 Je le connaissais déjà assez bien pour comprendre qu’il avait dans l’esprit de tricher pour couper court à cette partie qui s’éternisait. Il tendit son bras pour faire glisser une carte dissimulée dans sa manche… et se retrouva avec un biscuit dans son jeu. Il s’était trompé de manche. /ll/
