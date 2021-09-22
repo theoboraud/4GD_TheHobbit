@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4bcc53e0-d264-4341-8c55-dac0ee3a0b48}">
+		<property name="assetPath">
+			<value>562198__gristi__snd-metal-smash.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6670416666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bd88f99e-98d7-4e5e-b90e-de03fb9e4b51}</destination>
+		</relationship>
+	</object>
+</objects>

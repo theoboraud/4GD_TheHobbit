@@ -129,7 +129,11 @@
 			<destination>{2eb3bde9-f2fb-4500-9ff9-0a1f1c610225}</destination>
 		</relationship>
 	</object>
-	<object class="MixerBusPanner" id="{fc0b9d2e-6aec-407d-aea0-34e76ae224bb}" />
+	<object class="MixerBusPanner" id="{fc0b9d2e-6aec-407d-aea0-34e76ae224bb}">
+		<property name="stereoPan">
+			<value>-54</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{dae58d78-00bc-4202-9c4c-cad6252fcbef}" />
 	<object class="FadeCurve" id="{da5dce45-73f5-488b-a5c6-a50f4256fb91}">
 		<relationship name="startPoint">

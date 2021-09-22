@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{ed8dd881-5027-486e-84ea-4bdc45c68d06}">
+		<property name="assetPath">
+			<value>FarOverrrrrrr.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.692993197278911</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bd88f99e-98d7-4e5e-b90e-de03fb9e4b51}</destination>
+		</relationship>
+	</object>
+</objects>

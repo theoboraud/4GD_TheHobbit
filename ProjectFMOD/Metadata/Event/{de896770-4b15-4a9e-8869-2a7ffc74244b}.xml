@@ -93,7 +93,7 @@
 	<object class="MixerBusPanner" id="{4e359054-462a-463a-ae14-7bb144e41b96}" />
 	<object class="SnapshotModule" id="{bf2a510d-ddf6-4395-a9c2-569bd5d8f315}">
 		<property name="length">
-			<value>2.5</value>
+			<value>7</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{bbce09ec-d3a0-4fbc-a30a-65796ff3feec}</destination>
