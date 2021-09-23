@@ -160,9 +160,6 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{63de7d91-ed9e-496f-9425-e9108dbb0272}">
-		<property name="isAsync">
-			<value>true</value>
-		</property>
 		<property name="length">
 			<value>78.205328798185946</value>
 		</property>
@@ -172,6 +169,9 @@
 		<property name="looping">
 			<value>true</value>
 		</property>
+		<relationship name="fadeInCurve">
+			<destination>{b5024c5e-0813-4b67-b340-c7442366f660}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{fab6fbd5-3dd2-44b9-900d-a4cc093c0c55}</destination>
 		</relationship>
@@ -228,6 +228,14 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{de9fa154-4ff1-4486-a8c5-8bee87c7fa4e}" />
+	<object class="FadeCurve" id="{b5024c5e-0813-4b67-b340-c7442366f660}">
+		<relationship name="startPoint">
+			<destination>{74a57684-86b8-46cd-ab27-9b02cde034b0}</destination>
+		</relationship>
+		<relationship name="endPoint">
+			<destination>{c02d954a-f629-414f-8656-7b97a09f60fc}</destination>
+		</relationship>
+	</object>
 	<object class="Automator" id="{96570c4c-973b-497d-ba07-110a2d435488}">
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
@@ -253,6 +261,25 @@
 	</object>
 	<object class="MixerBusFader" id="{295f65d6-8ebe-4456-878c-34d45d7346e4}" />
 	<object class="MixerBusFader" id="{ea648bb9-8269-4643-9c00-af1e0157508c}" />
+	<object class="AutomationPoint" id="{74a57684-86b8-46cd-ab27-9b02cde034b0}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+		<property name="curveShape">
+			<value>-0.2547189</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{c02d954a-f629-414f-8656-7b97a09f60fc}">
+		<property name="position">
+			<value>2</value>
+		</property>
+		<property name="value">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="AutomationCurve" id="{d26cb786-7ea2-498a-b98d-d0044cebef2b}">
 		<relationship name="parameter">
 			<destination>{b48a6e1c-2be3-404b-90c8-0d1d313157dd}</destination>
