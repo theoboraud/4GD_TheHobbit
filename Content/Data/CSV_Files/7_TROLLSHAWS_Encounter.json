@@ -1,14 +1,14 @@
 [
 	{
 		"Name": "start",
-		"Text": "{PLAY_MUSIC:event:/Ambiances/General/Forest}{PLAY_MUSIC:event:/Ambiances/General/OpenAir}{PLAY_MUSIC:event:/Ambiances/General/Campfire}/a/Le fleuve passé, nous nous trouvions désormais à la lisière d'une grande forêt dont j'ignorais le nom. Nous suivîmes la route encore quelques heures avant de nous installer le soir sur le bas-côté pour bivouaquer, ce que nous n'avions pas [volé|voler]. Nos poneys furent attachés aux premiers troncs du bois et nous commençâmes à ingérer notre repas de soir. Ce n'est que quelques heures plus tard, alors que la nuit était bien tombée, que j'allai rejoindre Fili et Kili pour tailler un brin de causette. Les deux jeunes nains étaient partis nourrir les poneys, mais ils affichaient une mine circonspecte lorsque je les rejoignis./l/Tout va bien, vous deux ? leur demandais-je./l/- Voyez, Bilbo, nous avons deux poneys qui manquent à l'appel./l/- Mais c'est pourtant vrai !/l/- Et là-bas, une drôle de lueur oscille dans les bois./l/- Mais tout à fait !/ll//aa/#PUBLIC#- Ça devait être lié !#/#/l//aa/#BILBO#- Tu es perspicace, mon petit !#/#/l/C'est aussi ce qu'ils pensaient, et ces petits malins invoquèrent la fameuse discrétion des Hobbits - notez donc l'oxymore - pour me pousser à aller y jeter un oeil, tandis qu'ils filaient chercher du renfort./ll//a/Si vous rencontrez quelques difficultés, hululez une fois ! Sinon, imitez le cri de la belette, me dirent les deux frères avant de s'éclipser./ll//a/Avant que je puisse tenter de [négocier|parlementer] pour leur annoncer mon manque de talent dans le domaine d'imitation d'animaux, ils avaient disparu dans l'obscurité. Je n'avais plus le choix. Il me fallait enquêter sur tout ce grabuge. Après quelques foulées dans les sombres bois, je commençai à entendre des voix graves, des voix rauques émaner de la lueur. Quelques pas de plus en [me mouvant|déplacement furtif] discrètement et j'arrivai à la lisière d'une petite clairière. C'est à cet endroit que, en relevant les yeux, je faillis m'évanouir./ll//aa/- Il y avait quoi ?/l//aa/- Qu'est ce que c'était, Oncle Bilbo, qu'est ce que c'était, dis ?/ll/{PLAY:start_2}",
+		"Text": "{PLAY_MUSIC:event:/Ambiances/General/Forest}{PLAY_MUSIC:event:/Ambiances/General/OpenAir}{PLAY_MUSIC:event:/Ambiances/General/Campfire}/a/Le fleuve passé, nous nous trouvions désormais à la lisière d'une grande forêt dont j'ignorais le nom. Nous suivîmes la route encore quelques heures avant de nous installer le soir sur le bas-côté pour bivouaquer, ce que nous n'avions pas [volé|voler]. Nos poneys furent attachés aux premiers troncs du bois et nous commençâmes à ingérer notre repas de soir. Ce n'est que quelques heures plus tard, alors que la nuit était bien tombée, que j'allai rejoindre Fili et Kili pour tailler un brin de causette. Les deux jeunes nains étaient partis nourrir les poneys, mais ils affichaient une mine circonspecte lorsque je les rejoignis./l/Tout va bien, vous deux ? leur demandais-je./l/- Voyez, Bilbo, nous avons deux poneys qui manquent à l'appel./l/- Mais c'est pourtant vrai !/l/- Et là-bas, une drôle de lueur oscille dans les bois./l/- Mais tout à fait !/ll//p//aa/#PUBLIC#- Ça devait être lié !#/#/l//aa/#BILBO#- Tu es perspicace, mon petit !#/#/l/C'est aussi ce qu'ils pensaient, et ces petits malins invoquèrent la fameuse discrétion des Hobbits - notez donc l'oxymore - pour me pousser à aller y jeter un oeil, tandis qu'ils filaient chercher du renfort./ll//p//a/Si vous rencontrez quelques difficultés, hululez une fois ! Sinon, imitez le cri de la belette, me dirent les deux frères avant de s'éclipser./ll//p//a/Avant que je puisse tenter de [négocier|parlementer] pour leur annoncer mon manque de talent dans le domaine d'imitation d'animaux, ils avaient disparu dans l'obscurité. Je n'avais plus le choix. Il me fallait enquêter sur tout ce grabuge. Après quelques foulées dans les sombres bois, je commençai à entendre des voix graves, des voix rauques émaner de la lueur. Quelques pas de plus en [me mouvant|déplacement furtif] discrètement et j'arrivai à la lisière d'une petite clairière. C'est à cet endroit que, en relevant les yeux, je faillis m'évanouir./ll//p//aa//#PUBLIC# - Il y avait quoi ?#/#/l//aa/#PUBLIC#- Qu'est ce que c'était, Oncle Bilbo, qu'est ce que c'était, dis ?#/#/ll/{PLAY:start_2}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "start_2",
-		"Text": "/a/Devant moi... À seulement quelques pieds... Se dressaient... TROIS MONSTRUEUX TROLLS !/ll//aa/#PUBLIC#- Aaaaaah !/l//aa/- Mais non !#/#/ll//aa/#BILBO#-Si ! Ils avaient l'air méchants, stupides et surtout... Affamés !/ll//aa/#PUBLIC#- Arrête, Oncle Bilbo ! Tu nous fais peur !#/#/ll/Bien, bien... Où en étais-je... Oui ! Ces viles créatures à la peau aussi dure que le roc semblaient se disputer au sujet de la cuisson des deux poneys qu'ils nous avaient chippés. En plein [débat|parlementer], ils ne prêtaient pas attention à ce qui les entourait, et donc à moi. J'avais donc le champ libre pour agir./l/À la ceinture d'un des monstres pendait une bourse qui semblait bien remplie. Cette vision éveilla mon envie de mettre à l'épreuve mes talents de cambrioleurs, mais le danger était grand. /p/Plusieurs approches s'offraient donc à moi, et je sentais le poids de mes futures décisions peser sur mes épaule./ll//a/Après mûre réflexion, je décidai de <___>.../ll/",
+		"Text": "/a/Devant moi... À seulement quelques pieds... Se dressaient... TROIS MONSTRUEUX TROLLS !/ll//p//aa/#PUBLIC#- Aaaaaah !/l//aa/- Mais non !#/#/ll//aa/#BILBO# - Si ! Ils avaient l'air méchants, stupides et surtout... Affamés !/ll//aa/#PUBLIC#- Arrête, Oncle Bilbo ! Tu nous fais peur !#/#/ll/#BILBO#- Bien, bien... Où en étais-je... Ah oui !#/#/p//a/Ces viles créatures à la peau aussi dure que le roc semblaient se disputer au sujet de la cuisson des deux poneys qu'ils nous avaient chippés. En plein [débat|parlementer], ils ne prêtaient pas attention à ce qui les entourait, et donc à moi. J'avais donc le champ libre pour agir./l/À la ceinture d'un des monstres pendait une bourse qui semblait bien remplie. Cette vision éveilla mon envie de mettre à l'épreuve mes talents de cambrioleurs, mais le danger était grand./p/Plusieurs approches s'offraient donc à moi, et je sentais le poids de mes futures décisions peser sur mes épaule./ll//p//a/Après mûre réflexion, je décidai de <___>.../ll/",
 		"Outcomes":
 		{
 			"déplacement_furtif":
@@ -40,28 +40,28 @@
 	},
 	{
 		"Name": "2.1_seMouvoir",
-		"Text": "/a/Je ne pouvais pas risquer de retourner vers la Compagnie, en laissant ces trois monstres sans surveillance et sur ma piste. Je décidai donc de monter le guet en attendant les nains, qui, plus versés dans l'art de la guerre que moi, sauraient sans doute mieux quoi faire./l/En observant les Trolls se chamailler et se [taper|attaque] dessus, je remarquai qu'ils ne semblaient pas si diaboliques. S'ils n'avaient pas fait dix pieds de haut et si leur discussion n'avait pas porté sur la cuisson de poneys, ils auraient pu [passer|se déplacer] pour des enfants turbulents. C'est alors qu'un bruit derrière moi me tira de mes réflexions. La Compagnie approchait./l/{PLAY:3_cachette}",
+		"Text": "/a/Je ne pouvais pas risquer de retourner vers la Compagnie, en laissant ces trois monstres sans surveillance et sur ma piste. Je décidai donc de monter le guet en attendant les nains, qui, plus versés dans l'art de la guerre que moi, sauraient sans doute mieux quoi faire./l/En observant les Trolls se chamailler et se [taper|attaque] dessus, je remarquai qu'ils ne semblaient pas si diaboliques./p//a/S'ils n'avaient pas fait dix pieds de haut et si leur discussion n'avait pas porté sur la cuisson de poneys, ils auraient pu [passer|se déplacer] pour des enfants turbulents. C'est alors qu'un bruit derrière moi me tira de mes réflexions. La Compagnie approchait./l/{PLAY:3_cachette}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "2.2_voler",
-		"Text": "/a/Après tout, n'y avait-il pas marqué cambrioleur sur le contrat qui me liait à la Compagnie ? Je décidai donc d'user de mes talents de discrétion pour voir ce que cette bourse pouvait bien contenir. La moindre brindille pouvant me démasquer aux yeux des Trolls, je faisais de mes pas un souffle sur l'herbe, j'étais un fantôme, une rumeur qui s'approchait lentement de créatures qui, d'un coup de pied, auraient pu me faire voir le Pays de Bree vu du ciel./ll//a/Arrivé à proximité du Troll, je détachai précautionneusement la bourse en priant pour qu'il ne bouge pas trop. Heureusement, il semblait fort préoccupé par le salage de la soupe qu'il était entrain de préparer pour ses petits camarades./l/De la bourse, je sortis un joli miroir de poche. Lentement, je reculai jusqu'à mon buisson dans lequel je me tapis. J'admirais mon butin au clair de lune lorsque j'entendis du bruit derrière moi. Les nains approchaient de ma position./l/{SET_CONDITION:haveMirror}{PLAY:3_cachette}",
+		"Text": "/a/Après tout, n'y avait-il pas marqué cambrioleur sur le contrat qui me liait à la Compagnie ? Je décidai donc d'user de mes talents de discrétion pour voir ce que cette bourse pouvait bien contenir. La moindre brindille pouvant me démasquer aux yeux des Trolls, je faisais de mes pas un souffle sur l'herbe, j'étais un fantôme, une rumeur qui s'approchait lentement de créatures qui, d'un coup de pied, auraient pu me faire voir le Pays de Bree vu du ciel./ll//p//a/Arrivé à proximité du Troll, je détachai précautionneusement la bourse en priant pour qu'il ne bouge pas trop. Heureusement, il semblait fort préoccupé par le salage de la soupe qu'il était entrain de préparer pour ses petits camarades./l/De la bourse, je sortis un joli miroir de poche. Lentement, je reculai jusqu'à mon buisson dans lequel je me tapis. J'admirais mon butin au clair de lune lorsque j'entendis du bruit derrière moi. Les nains approchaient de ma position./l/{SET_CONDITION:haveMirror}{PLAY:3_cachette}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "2.3_parlementer",
-		"Text": "/aa/Ces drôles de créatures semblant douées de parole et d'un soupçon de raison (ils mettaient du sel dans la soupe), je me décidai à les approcher frontalement, muni de mes meilleurs intentions./ll//aa/#PUBLIC#- Mais c'est stupide !#/#/ll//a/À vrai dire, je ne sais ce que j'espérais. À peine ais-je pu prononcer quelques mots que des cris de surprise retentirent et une énorme main me saisit pour me soulever du sol, sans que je puisse [l'esquiver|esquive]. Rapidement, ces monstres me ligotèrent avec une grossière corde de lin avant de me baillonner rudimentairement à l'aide d'un mouchoir sale./ll//aa/#PUBLIC#- Bleuaaah !/l//aa/- Beurk, c'est dégoûtant !#/#/ll/{PLAY:4_negociation}",
+		"Text": "/aa/Ces drôles de créatures semblant douées de parole et d'un soupçon de raison (ils mettaient du sel dans la soupe), je me décidai à les approcher frontalement, muni de mes meilleurs intentions./ll//aa/#PUBLIC#- Mais c'est stupide !#/#/ll//a/À vrai dire, je ne sais ce que j'espérais. À peine ais-je pu prononcer quelques mots que des cris de surprise retentirent et une énorme main me saisit pour me soulever du sol, sans que je puisse [l'esquiver|esquive]. Rapidement, ces monstres me ligotèrent avec une grossière corde de lin avant de me baillonner rudimentairement à l'aide d'un mouchoir sale./ll//p//aa/#PUBLIC#- Bleuaaah !#/#/l//aa/#PUBLIC#- Beurk, c'est dégoûtant !#/#/ll/{PLAY:4_negociation}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "2.4_taper",
-		"Text": "/a/Soudain, mon cerveau paniqué arriva à une conclusion :  je devais à tout prix essayer d'attaquer ces créatures./ll//aa/#PUBLIC#- Quoi ?/l//aa/- Mais ça n'a aucun sens !#/#/ll//a/#BILBO#- On ne sait jamais ce que notre instinct va décider en temps de danger les enfants... Ce doit être mon côté Took, comme toi, Pippin, qui me pousse parfois à faire des bétises. #/#Quoiqu'il en soit, je mis une claque au premier Troll à portée de mon bras. Ce qui était pour moi une claque n'était pour lui qu'une pichenette d'un nouveau-né Troll. Il prit un air étonné avant de me retourner la politesse. Je sombrai immédiatement dans les ténèbres./ll/Au bout d'un moment, mes paupières s'ouvrirent, pour découvrir qu'autour de moi, la totalité de la Compagnie se trouvait à présent ligotée. Les Trolls n'avaient eu aucun soucis à les attirer à eux, et ce par ma faute. Je devais me rattraper./l/{PLAY:9_marmite}",
+		"Text": "/a/Soudain, mon cerveau paniqué arriva à une conclusion : je devais à tout prix essayer d'attaquer ces créatures./ll//aa/#PUBLIC#- Quoi ?#/#/l//aa/#PUBLIC#- Mais ça n'a aucun sens !#/#/ll//a/#BILBO#- On ne sait jamais ce que notre instinct va décider en temps de danger les enfants... Ce doit être mon côté Took, comme toi, Pippin, qui me pousse parfois à faire des bétises.#/#/p//a/Quoiqu'il en soit, je mis une claque au premier Troll à portée de mon bras. Ce qui était pour moi une claque n'était pour lui qu'une pichenette d'un nouveau-né Troll. Il prit un air étonné avant de me retourner la politesse. Je sombrai immédiatement dans les ténèbres./ll/Au bout d'un moment, mes paupières s'ouvrirent, pour découvrir qu'autour de moi, la totalité de la Compagnie se trouvait à présent ligotée. Les Trolls n'avaient eu aucun soucis à les attirer à eux, et ce par ma faute. Je devais me rattraper./l/{PLAY:9_marmite}",
 		"Outcomes":
 		{
 		}
@@ -99,7 +99,7 @@
 	},
 	{
 		"Name": "3.1.2",
-		"Text": "/a/Intéressant... mais je ne suis pas sur que cela serve, ma tentative était peine perdue de toute manière.../p/ Les voyant s'éloigner de plus en plus, j'ai tenté de leur faire entendre ceci : - Par ici, crétin de nain !/l/L'obscurité ne m'empêcha pas de voir Dwalin s'empourper de colère avant de se diriger vivement vers moi, suivi à grands pas par les autres nains./l/- Comment m'as-tu appelé, cambrioleur de pacotille ? hurla-t-il./l/Évidemment, un cri pareil attira les Trolls comme des mouches. Il emjambèrent mon buisson sans le voir puis s'emparèrent sans coup férir des nains, tétanisés par l'apparence de ces géants./ll//a/Après les avoir solidement ligotés, ils se rassirent et, horreur, changèrent le sujet de conversation de la méthode de cuisson des poneys à celle des nains. Ma première chance était passée./l/{PLAY:3_2cachette_score0}",
+		"Text": "/a/Intéressant... Mais je ne suis pas sur que cela serve, ma tentative était peine perdue de toute manière.../p/ Les voyant s'éloigner de plus en plus, j'ai tenté de leur faire entendre ceci : - Par ici, crétin de nain !/l/L'obscurité ne m'empêcha pas de voir Dwalin s'empourper de colère avant de se diriger vivement vers moi, suivi à grands pas par les autres nains./l/- Comment m'as-tu appelé, cambrioleur de pacotille ? hurla-t-il./l/Évidemment, un cri pareil attira les Trolls comme des mouches. Il emjambèrent mon buisson sans le voir puis s'emparèrent sans coup férir des nains, tétanisés par l'apparence de ces géants./ll//p//a/Après les avoir solidement ligotés, ils se rassirent et, horreur, changèrent le sujet de conversation de la méthode de cuisson des poneys à celle des nains. Ma première chance était passée./l/{PLAY:3_2cachette_score0}",
 		"Outcomes":
 		{
 		}
@@ -154,7 +154,7 @@
 	},
 	{
 		"Name": "3.2.1_score0",
-		"Text": "/a/Intéressant... mais je ne suis pas sur que cela serve, ma tentative était peine perdue de toute manière... Les voyant s'éloigner de plus en plus,je tentaitla première chose qui me vint a l'esprit, je ramassait donc une pierre pour la jeter discrètement sur les nains./p//a/L'objet était assez petit pour être lancé avec soin et atteint Ori à l'épaule. Celui-ci poussa un petit cri de surprise./l/- Mettez-vous en position /l/cria Thorin d'une voix forte. Les nains se tournèrent vers moi, sans me voir. Leur flanc était donc exposé aux Trolls, et ceux-ci en profitèrent. Bondissant soudainement sur eux, ils prirent ces pauvres nains pour les enfermer dans de grands sacs. Misère ! Encore un groupe de perdu.../ll//aa/- Tu vois où ça nous mène, tes idées de génie.../l//aa/- T'es vraiment pas futé./ll/{PLAY:3_3cachette_score0}",
+		"Text": "/a/Intéressant... mais je ne suis pas sur que cela serve, ma tentative était peine perdue de toute manière... Les voyant s'éloigner de plus en plus,je tentaitla première chose qui me vint a l'esprit, je ramassait donc une pierre pour la jeter discrètement sur les nains./p//a/L'objet était assez petit pour être lancé avec soin et atteint Ori à l'épaule. Celui-ci poussa un petit cri de surprise./l/- Mettez-vous en position /l/cria Thorin d'une voix forte. Les nains se tournèrent vers moi, sans me voir. /p//a/Leur flanc était donc exposé aux Trolls, et ceux-ci en profitèrent. Bondissant soudainement sur eux, ils prirent ces pauvres nains pour les enfermer dans de grands sacs. Misère ! Encore un groupe de perdu.../ll//aa/- Tu vois où ça nous mène, tes idées de génie.../l//aa/- T'es vraiment pas futé./ll/{PLAY:3_3cachette_score0}",
 		"Outcomes":
 		{
 		}
@@ -312,28 +312,28 @@
 	},
 	{
 		"Name": "3.3.2_score1",
-		"Text": "/a/Ah ! Enfin quelqu'un qui écoute au lieu d'entendre ! En effet, ce petit objet allait bien me servir, puisque la lumière du grand feu des trolls était si puissante qu'il me fut possible, à l'aide du miroir, de la refléter vers le groupe de nains. Le halo se ficha directement dans les yeux de Bombur, qui s'arrêta net et se tourna vers ma position. Me reconnaissant grâce à ma silhouette, il indiqua d'un geste aux autres de le suivre./l/{PLAY:8_combat}",
+		"Text": "/a/Ah ! Enfin quelqu'un qui écoute au lieu d'entendre ! En effet, ce petit objet allait bien me servir, puisque la lumière du grand feu des trolls était si puissante qu'il me fut possible, à l'aide du miroir, de la refléter vers le groupe de nains. /p/Le halo se ficha directement dans les yeux de Bombur, qui s'arrêta net et se tourna vers ma position. Me reconnaissant grâce à ma silhouette, il indiqua d'un geste aux autres de le suivre./l/{PLAY:8_combat}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "3.3.2_score2",
-		"Text": "/a/Ah ! Enfin quelqu'un qui écoute au lieu d'entendre ! En effet, ce petit objet allait bien me servir, puisque la lumière du grand feu des trolls était si puissante qu'il me fut possible, à l'aide du miroir, de la refléter vers le groupe de nains. Le halo se ficha directement dans les yeux de Bombur, qui s'arrêta net et se tourna vers ma position. Me reconnaissant grâce à ma silhouette, il indiqua d'un geste aux autres de le suivre./l/{PLAY:8_combat}",
+		"Text": "/a/Ah ! Enfin quelqu'un qui écoute au lieu d'entendre ! En effet, ce petit objet allait bien me servir, puisque la lumière du grand feu des trolls était si puissante qu'il me fut possible, à l'aide du miroir, de la refléter vers le groupe de nains. /p/Le halo se ficha directement dans les yeux de Bombur, qui s'arrêta net et se tourna vers ma position. Me reconnaissant grâce à ma silhouette, il indiqua d'un geste aux autres de le suivre./l/{PLAY:8_combat}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "3.3.2_score3",
-		"Text": "/a/Ah ! Enfin quelqu'un qui écoute au lieu d'entendre ! En effet, ce petit objet allait bien me servir, puisque la lumière du grand feu des trolls était si puissante qu'il me fut possible, à l'aide du miroir, de la refléter vers le groupe de nains. Le halo se ficha directement dans les yeux de Bombur, qui s'arrêta net et se tourna vers ma position. Me reconnaissant grâce à ma silhouette, il indiqua d'un geste aux autres de le suivre./l/{PLAY:7_tactique}",
+		"Text": "/a/Ah ! Enfin quelqu'un qui écoute au lieu d'entendre ! En effet, ce petit objet allait bien me servir, puisque la lumière du grand feu des trolls était si puissante qu'il me fut possible, à l'aide du miroir, de la refléter vers le groupe de nains. /p/Le halo se ficha directement dans les yeux de Bombur, qui s'arrêta net et se tourna vers ma position. Me reconnaissant grâce à ma silhouette, il indiqua d'un geste aux autres de le suivre./l/{PLAY:7_tactique}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "4_negociation",
-		"Text": "/a/Ils m'avaient attrapé ! Je me trouvai désormais au centre de ces trois monstres qui me regardaient avec curiosité et, cela m'angoissait/l/particulièrement, avec gourmandise. La panique me tiraillait tandis que mon esprit tâchait de trouver une idée d'urgence./l/Il s'agissait de me sortir de ce faux-pas tout en évitant à la Compagnie de finir entre les pattes des Trolls./ll/Soudain, mon cerveau paniqué arriva à une conclusion : je devais à tout prix essayer de <___> ces créatures",
+		"Text": "/a/Ils m'avaient attrapé ! Je me trouvai désormais au centre de ces trois monstres qui me regardaient avec curiosité et, cela m'angoissait particulièrement, avec gourmandise. La panique me tiraillait tandis que mon esprit tâchait de trouver une idée d'urgence./l//p/Il s'agissait de me sortir de ce faux-pas tout en évitant à la Compagnie de finir entre les pattes des Trolls./ll/Soudain, mon cerveau paniqué arriva à une conclusion : je devais à tout prix essayer de <___> ces créatures",
 		"Outcomes":
 		{
 		    "charmer":
@@ -360,7 +360,7 @@
 	},
 	{
 		"Name": "4.1_negocie",
-		"Text": "{TIMEATTACK:Negocie_Trollshaws}",
+		"Text": "/a/Il me fallait trouver un argument pour dissuader les Trolls ou au moins, trouver un moyen de faire perdre du temps, quel argument pouvat-je avancer à votre avis ? je n'avais que le temps que leur soupe soit chaude.../l/ {TIMEATTACK:Negocie_Trollshaws}",
 		"Outcomes":
 		{
 		    "victoire":
@@ -384,7 +384,7 @@
 	},
 	{
 		"Name": "5_combatSansBilbo",
-		"Text": "/a/J'avais réussi ,malgré moi, à occupper les Trolls suffisament longtemps pour permettre aux nains d'attaquer !/ll/{FIGHT:(les nains attaquent!);(Thorin,Bombur,Kili,Dwalin);(Troll);(V:3;D:3)}",
+		"Text": "/a/J'avais réussi ,presque malgré moi, à occupper les Trolls suffisament longtemps pour permettre aux nains d'attaquer !/ll/{FIGHT:(les nains attaquent!);(Thorin,Bombur,Kili,Dwalin);(Troll);(V:3;D:3)}",
 		"Outcomes":
 		{
 		}
@@ -398,7 +398,7 @@
 	},
 	{
 		"Name": "7_tactique",
-		"Text": "/a/Enfin ! Nous étions tous réunis. Tous, sauf Gandalf évidemment, ce qui souleva quelques grognements parmi les nains. Où avait-il pu bien passer, maintenant que nous avions besoin de lui ? Thorin fit vite taire les mécontents, car il y avait plus urgent./ll//a/En effet, nous devions décider de la marche à suivre. Les Trolls ne nous avaient toujours pas vu, mais cela pouvait changer rapidement. Cependant, nous avions désormais l'avantage du nombre ! Dwalin préconisait de profiter de l'effet de surprise pour attaquer, et Balin de continuer notre route discrètement vers la sortie de la forêt, là où nous étions censés rejoindre Gandalf./ll/Ayant entendu les deux points de vue, Thorin, notre chef, décida de <___>",
+		"Text": "/a/Enfin ! Nous étions tous réunis. Tous, sauf Gandalf évidemment, ce qui souleva quelques grognements parmi les nains. Où avait-il pu bien passer, maintenant que nous avions besoin de lui ? Thorin fit vite taire les mécontents, car il y avait plus urgent./ll//p//a/En effet, nous devions décider de la marche à suivre. Les Trolls ne nous avaient toujours pas vu, mais cela pouvait changer rapidement. Cependant, nous avions désormais l'avantage du nombre ! Dwalin préconisait de profiter de l'effet de surprise pour attaquer, et Balin de continuer notre route discrètement vers la sortie de la forêt, là où nous étions censés rejoindre Gandalf./ll/Ayant entendu les deux points de vue, Thorin, notre chef, décida de <___>",
 		"Outcomes":
 		{
 		    "déplacement_furtif":
@@ -425,28 +425,28 @@
 	},
 	{
 		"Name": "7.1_furtif",
-		"Text": "/a/Ayant entendu les deux points de vue, Thorin, notre chef, décida de la Compagnie allait se mouvoir silencieusement jusqu'à être hors de portée des monstres./l/Nous nous mîmes en file puis Thorin leva la main, annonçant ainsi le début de la marche. Accroupis, nous avançâmes précautionneusement à travers les brindilles et branchages, les arbres et les fourrés. À mes oreilles, ces balourds faisaient autant de bruit qu'un troupeau de boeufs, mais les Trolls n'entendirent pas un son./l/Petit à petit, la lueur du feu s'évanouit derrière nous. Nous rejoignîmes les poneys restants, là où nous les avions laissés, puis partîmes en direction de Gandalf./ll/{PLAY:10.3_versColdfells}",
+		"Text": "/a/Ayant entendu les deux points de vue, Thorin, notre chef, décida de la Compagnie allait se mouvoir silencieusement jusqu'à être hors de portée des monstres./l//p//a/Nous nous mîmes en file puis Thorin leva la main, annonçant ainsi le début de la marche. Accroupis, nous avançâmes précautionneusement à travers les brindilles et branchages, les arbres et les fourrés. À mes oreilles, ces balourds faisaient autant de bruit qu'un troupeau de boeufs, mais les Trolls n'entendirent pas un son./l/Petit à petit, la lueur du feu s'évanouit derrière nous. Nous rejoignîmes les poneys restants, là où nous les avions laissés, puis partîmes en direction de Gandalf./ll/{PLAY:10.3_versColdfells}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "7.2_vol",
-		"Text": "/a/À ce moment là, j'intervins auprès de Thorin pour lui proposer une autre option. Je pouvais me rendre auprès des Trolls silencieusement et entreprendre de dérober la bourse du plus proche. L'amour des nains pour l'or n'est, comme je vous l'ai dit, plus à prouver. Il accepta donc rapidement et je me dirigeai à nouveau vers le campement./ll//a/La moindre brindille pouvant me démasquer aux yeux des Trolls, je faisais de mes pas un souffle sur l'herbe, j'étais un fantôme, une rumeur qui s'approchait lentement de créatures qui, d'un coup de pied, auraient pu me faire voir le Pays de Bree vu du ciel./ll//a/Arrivé à proximité du Troll, je détachai précautionneusement la bourse en priant pour qu'il ne bouge pas trop. Heureusement, il semblait fort préoccupé par le salage de la soupe qu'il était entrain de préparer pour ses petits camarades.D e la bourse, je sortis une jolie broche de style elfique. Lentement, je reculai jusqu'aux nains qui m'attendaient, l'oeil fébrile. Ils parurent un peu déçus quand ils virent la broche, mais me félicitèrent tout de même, en me disant de la garder./ll/ Nous reprîmes la route, le plus discrètement possible. Petit à petit, la lueur du feu s'évanouit derrière nous. Nous rejoignîmes les poneys restants, là où nous les avions laissés, puis partîmes en direction de Gandalf./ll/{PLAY:10.3_versColdfells}",
+		"Text": "/a/À ce moment là, j'intervins auprès de Thorin pour lui proposer une autre option. Je pouvais me rendre auprès des Trolls silencieusement et entreprendre de dérober la bourse du plus proche. L'amour des nains pour l'or n'est, comme je vous l'ai dit, plus à prouver. Il accepta donc rapidement et je me dirigeai à nouveau vers le campement./ll//p//a/La moindre brindille pouvant me démasquer aux yeux des Trolls, je faisais de mes pas un souffle sur l'herbe, j'étais un fantôme, une rumeur qui s'approchait lentement de créatures qui, d'un coup de pied, auraient pu me faire voir le Pays de Bree vu du ciel./ll//p//a/Arrivé à proximité du Troll, je détachai précautionneusement la bourse en priant pour qu'il ne bouge pas trop. Heureusement, il semblait fort préoccupé par le salage de la soupe qu'il était entrain de préparer pour ses petits camarades.D e la bourse, je sortis une jolie broche de style elfique. Lentement, je reculai jusqu'aux nains qui m'attendaient, l'oeil fébrile. Ils parurent un peu déçus quand ils virent la broche, mais me félicitèrent tout de même, en me disant de la garder./ll//p//a/Nous reprîmes la route, le plus discrètement possible. Petit à petit, la lueur du feu s'évanouit derrière nous. Nous rejoignîmes les poneys restants, là où nous les avions laissés, puis partîmes en direction de Gandalf./ll/{PLAY:10.3_versColdfells}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "7.3_fuite",
-		"Text": "/a/Ayant entendu les deux points de vue, Thorin, notre chef, décida d'esquiver les Trolls en faisant diversion. Il envoya Kili, le plus rapide d'entre nous, de l'autre côté du campement pour faire du bruit tandis que nous courions vers les poneys./l//a/Le plan paraissait solide, et au début, Kili se débrouillait bien. À mi-chemin cependant, une branche craqua sous sa lourde botte, alors qu'il passait au ras du campement. Il n'en fallu pas plus aux Trolls pour se ruer vers l'origine du bruit./l/Kili, voyant que tout était perdu, tira son épée./l/ - À moi, peuple de Durin ! cria t-il./l/- Nous n'avons plus le choix, maintenant. Aux armes ! DU BEKAR!/l/hurla Thorin, à la tête de la Compagnie. Tous chargèrent en hurlant, tandis que je restais prudemment en retrait, car une telle situation ne sied pas un Hobbit. La bataille avait commencé./ll//aa/#PUBLIC#- Trop chouette ! Moi, j'aurais foncé !#/#/l//aa/#BILBO#- Ne dis pas de bétise, tu ferais pas de mal à un écureuil.#/#/l/{PLAY:8_combatDifficile}",
+		"Text": "/a/Ayant entendu les deux points de vue, Thorin, notre chef, décida d'esquiver les Trolls en faisant diversion. Il envoya Kili, le plus rapide d'entre nous, de l'autre côté du campement pour faire du bruit tandis que nous courions vers les poneys./l//p//a/Le plan paraissait solide, et au début, Kili se débrouillait bien. À mi-chemin cependant, une branche craqua sous sa lourde botte, alors qu'il passait au ras du campement. Il n'en fallu pas plus aux Trolls pour se ruer vers l'origine du bruit./l/Kili, voyant que tout était perdu, tira son épée./l/ - À moi, peuple de Durin ! cria t-il./l/- Nous n'avons plus le choix, maintenant. Aux armes ! DU BEKAR!/l/hurla Thorin, à la tête de la Compagnie. Tous chargèrent en hurlant, tandis que je restais prudemment en retrait, car une telle situation ne sied pas un Hobbit. La bataille avait commencé./ll//p//aa/#PUBLIC#- Trop chouette ! Moi, j'aurais foncé !#/#/l//aa/#BILBO#- Ne dis pas de bétise, tu ferais pas de mal à un écureuil.#/#/l/{PLAY:8_combatDifficile}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "7.4_combat_facile",
-		"Text": "/a/Ayant entendu les deux points de vue, Thorin, notre chef, décida de mener l'attaque./l/- Dwalin a raison, dit-il, la Compagnie est au complet, nous avons l'avantage de la surprise, attaquons !/l/À ces mots, tous acquieçèrent et sortirent discrètement leurs armes. Je n'en possédais pas, aussi restais-je en retrait. Les nains se rapprochèrent aussi discrètement qu'il est possible pour un nain, puis, à l'orée du campement, une voix rauque retentit, déchirant le silence nocture./l/- Aux armes ! À la charge ! DU BEKAR !/l/Thorin se rua à la tête de ses troupes sur les trois Trolls, stupéfiés. La bataille avait commencé./ll//aa/#PUBLIC#- Trop chouette ! Tu aurais dû foncer, Oncle Bilbo !#/#/l//aa/#BILBO#- Ah parce que tu y serais allé, toi ?#/#/l//aa/#PUBLIC#- Bien sûr ! Je suis un Took, j'ai ça dans le sang !#/#/ll/{FIGHT:(les nains attaquent!);(Fili,Thorin,Bombur,Kili,Dwalin);(Troll);(V:3;D:3)}",
+		"Text": "/a/Ayant entendu les deux points de vue, Thorin, notre chef, décida de mener l'attaque./l/- Dwalin a raison, dit-il, la Compagnie est au complet, nous avons l'avantage de la surprise, attaquons !/l/À ces mots, tous acquieçèrent et sortirent discrètement leurs armes. Je n'en possédais pas, aussi restais-je en retrait. Les nains se rapprochèrent aussi discrètement qu'il est possible pour un nain, puis, à l'orée du campement, une voix rauque retentit, déchirant le silence nocture./l//p/- Aux armes ! À la charge ! DU BEKAR !/l/Thorin se rua à la tête de ses troupes sur les trois Trolls, stupéfiés. La bataille avait commencé./ll//aa/#PUBLIC#- Trop chouette ! Tu aurais dû foncer, Oncle Bilbo !#/#/l//aa/#BILBO#- Ah parce que vous y serez allés, vous ?#/#/l//aa/#PUBLIC#- Bien sûr ! Je suis un Took, j'ai ça dans le sang !#/#/ll/{FIGHT:(Les nains attaquent !);(Fili,Thorin,Bombur,Kili,Dwalin);(troll);(V:3;D:3)}",
 		"Outcomes":
 		{
 		    "victoire":
@@ -463,14 +463,14 @@
 	},
 	{
 		"Name": "8_combat",
-		"Text": "/a/Si certains nains de la Compagnie étaient prisonniers des Trolls, j'avais réussi à en attirer une partie vers ma cachette./l/Il était bien sûr hors de question de quitter les lieux sans délivrer nos compagnons. Déterminés, les nains sortirent leurs armes. Beaucoup d'entre eux avaient par le passé combattu des Trolls et aucun n'en gardait de bons souvenirs, mais les créatures qui se tenaient devant nous avaient comme prisonniers leurs frères d'armes. Les yeux des nains rougoyèrent dans la nuit comme des feux-follets lorsqu'ils se levèrent d'un seul homme pour entamer leur charge./l/Les Trolls sursautèrent à leur irruption dans la clairière. L'effet de surprise permit à un petit groupe de se ruer sur les nains prisonniers pour en libérer quelques-uns. Ceux-ci ramassèrent des armes et se ruèrent dans la mêlée. Le combat avait commencé./l/{PLAY:8_combatDifficile}",
+		"Text": "/a/Si certains nains de la Compagnie étaient prisonniers des Trolls, j'avais réussi à en attirer une partie vers ma cachette./l/Il était bien sûr hors de question de quitter les lieux sans délivrer nos compagnons. Déterminés, les nains sortirent leurs armes. Beaucoup d'entre eux avaient par le passé combattu des Trolls et aucun n'en gardait de bons souvenirs, mais les créatures qui se tenaient devant nous avaient comme prisonniers leurs frères d'armes. Les yeux des nains rougoyèrent dans la nuit comme des feux-follets lorsqu'ils se levèrent d'un seul homme pour entamer leur charge./l//p//a/Les Trolls sursautèrent à leur irruption dans la clairière. L'effet de surprise permit à un petit groupe de se ruer sur les nains prisonniers pour en libérer quelques-uns. Ceux-ci ramassèrent des armes et se ruèrent dans la mêlée. Le combat avait commencé./l/{PLAY:8_combatDifficile}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "8_combatDifficile",
-		"Text": "/ll/{FIGHT:(les nains attaquent!);(Bilbo,Thorin,Bombur,Kili,Dwalin);(Troll);(V:4;D:2)}",
+		"Text": "/ll/{FIGHT:(Les nains attaquent !);(Bilbo,Thorin,Bombur,Kili,Dwalin);(Troll);(V:4;D:2)}",
 		"Outcomes":
 		{
 		    "victoire":
@@ -481,7 +481,7 @@
 			"null":
 			{
 				"FeedbackValue": "Bad",
-				"OutcomeStepName": "10.4_gandalf"
+				"OutcomeStepName": "9_marmite"
 			}
 		}
 	},
@@ -504,7 +504,7 @@
 	},
 	{
 	    "Name": "9.1_Enigme",
-		"Text": "Les enfants, que font vos parents lorsqu'ils veulent distraire votre attention ou vous fatiguer, pour que vous arrêtiez de geindre ?/ll//aa/#PUBLIC#- Je sais, je sais !#/#/l//aa/#PUBLIC#- Une énigme !#/#/l//aa/#PUBLIC#- Ouaiiiiis !#/#/l//a/Exactement ! Les énigmes sont chose courante dans nos contrées et bien au-delà. Les Trolls, bien que fort différents des Hobbits, en sont aussi friands que nous et n'hésitent pas à les utiliser pour extorquer quelques piécettes aux voyageurs qui ont le malheur de traverser leurs ponts. Cette fois-ci cependant, je comptais bien retourner cette arme contre eux./l//a/- Ô, nobles Trolls ! Que diriez-vous d'un petit jeu pour nous départager ? Que diriez-vous... D'une énigme ?/l/Je sentis que ces mots éveillèrent immédiatement l'intérêt des trois géants./l//a/- Une énigme ? répondirent-il en choeur./l//a/ - Oui ! À vous de me poser une énigme, expliquais-je. Si je trouve la réponse, vous nous laissez partir. Sinon, nous sommes à vous !/l//a/- Vous êtes déjà à nous !/l//a/- Me dites-vous là que vous, Trolls, créatures d'intelligence et de malice, refuseriez un jeu ?/l/Après quelques grognements et messes basses, ils se retournèrent vers moi et acceptèrent./l//a/- Soit, petite créature...{TIMEATTACK:Puzzle_Trollshaws}",
+		"Text": "Les enfants, que font vos parents lorsqu'ils veulent distraire votre attention ou vous fatiguer, pour que vous arrêtiez de geindre ?/ll//aa/#PUBLIC#- Je sais, je sais !#/#/l//aa/#PUBLIC#- Une énigme !#/#/l//aa/#PUBLIC#- Ouaiiiiis !#/#/l//p//a/Exactement ! Les énigmes sont chose courante dans nos contrées et bien au-delà. Les Trolls, bien que fort différents des Hobbits, en sont aussi friands que nous et n'hésitent pas à les utiliser pour extorquer quelques piécettes aux voyageurs qui ont le malheur de traverser leurs ponts. Cette fois-ci cependant, je comptais bien retourner cette arme contre eux./l//p//a/- Ô, nobles Trolls ! Que diriez-vous d'un petit jeu pour nous départager ? Que diriez-vous... D'une énigme ?/l/Je sentis que ces mots éveillèrent immédiatement l'intérêt des trois géants./l//a/- Une énigme ? répondirent-il en choeur./l//a/ - Oui ! À vous de me poser une énigme, expliquais-je. Si je trouve la réponse, vous nous laissez partir. Sinon, nous sommes à vous !/l//a/- Vous êtes déjà à nous !/l//p//a/- Me dites-vous là que vous, Trolls, créatures d'intelligence et de malice, refuseriez un jeu ?/l/Après quelques grognements et messes basses, ils se retournèrent vers moi et acceptèrent./l//a/- Soit, petite créature...{TIMEATTACK:Puzzle_Trollshaws}",
 		"Outcomes":
 		{
 		    "victoire":
@@ -521,21 +521,21 @@
 	},
 	{
 		"Name": "9.1.1",
-		"Text": "/a/#BILBO#Les nuages, tout à fait ! Bravo ma petite.#/#/l/J'étais encore plus joyeux que toi lorsque la solution apparut comme une évidence dans mon esprit, puisque j'avais à présent une chance de ne pas finir dans l'estomac d'un de ces géants./l//a/Ils parurent déçus, très déçus que je trouve la solution./l/- Elle était trop facile, je t'avais dit d'en choisir une autre ! dit un des Trolls, prénommé Bert./l/- La ferme, on était tous d'accord sur celle-ci, répondit le deuxième, Bill./l/- Réponse ou pas, on s'en fiche ! Pourquoi ne pourrait-on pas les manger quand même ? proposa Tom, le dernier./l/- Ah non ! répondis-je vivement. Voulez-vous que les habitants alentours apprennent que les Trolls ne tiennent pas leur paroles, qu'ils ne désirent que les manger, ou pire, leur extorquer leur argent ?/ll//a/Les Trolls se regardèrent, hésitants. Ma ruse allait-elle marcher ? En effet, s'ils nous mangeaient tous, personne ne saurait ce que Bert, Bill et Tom avaient fait. Heureusement, l'amour des Trolls pour l'or est presque aussi grand que celui des nains, tandis que leur intelligence est bien moindre. Après quelques instants, ils grommelèrent quelque chose puis entreprirent de nous détacher./l/{PLAY:10.1_versFordBruinen}",
+		"Text": "/a/#BILBO#- Les nuages, tout à fait ! Bravo ma petite.#/#/l/J'étais encore plus joyeux que toi lorsque la solution apparut comme une évidence dans mon esprit, puisque j'avais à présent une chance de ne pas finir dans l'estomac d'un de ces géants./l//p//a/Ils parurent déçus, très déçus que je trouve la solution./l/- Elle était trop facile, je t'avais dit d'en choisir une autre ! dit un des Trolls, prénommé Bert./l/- La ferme, on était tous d'accord sur celle-ci, répondit le deuxième, Bill./l/- Réponse ou pas, on s'en fiche ! Pourquoi ne pourrait-on pas les manger quand même ? proposa Tom, le dernier./l/- Ah non ! répondis-je vivement. Voulez-vous que les habitants alentours apprennent que les Trolls ne tiennent pas leur paroles, qu'ils ne désirent que les manger, ou pire, leur extorquer leur argent ?/ll//p//a/Les Trolls se regardèrent, hésitants. Ma ruse allait-elle marcher ? En effet, s'ils nous mangeaient tous, personne ne saurait ce que Bert, Bill et Tom avaient fait. Heureusement, l'amour des Trolls pour l'or est presque aussi grand que celui des nains, tandis que leur intelligence est bien moindre. Après quelques instants, ils grommelèrent quelque chose puis entreprirent de nous détacher./l/{PLAY:10.1_versFordBruinen}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "9.1.2",
-		"Text": "/a/#BILBO#Ne vous en faites pas, les enfants ! #/#/l/Cette énigme est en effet très difficile, et je dois avouer à ma grande honte que je ne trouvai pas non plus la solution. Au bout de plusieurs essais, les Trolls me regardèrent en souriant férocement et Bert me dit, en s'approchant : - la réponse, futur diner, était... les nuages./ll//a/Mais oui ! Les nuages ! Au-dessus des hommes et des rois, dont tout le monde entend le tonnerre, qui sont passagers et dont la pluie nourrit le sol ! Je me maudis intérieurement. Par ma faute, nous allions être dégustés par trois monstres affamés. Les nains grognèrent et se débattirent mais rien ne semblait pouvoir inverser le cours de la situation./l/{PLAY:10.4_gandalf}",
+		"Text": "/a/#BILBO#- Ne vous en faites pas, les enfants ! #/#/l/Cette énigme est en effet très difficile, et je dois avouer à ma grande honte que je ne trouvai pas non plus la solution. Au bout de plusieurs essais, les Trolls me regardèrent en souriant férocement et Bert me dit, en s'approchant : - la réponse, futur diner, était... les nuages./ll//p//a/Mais oui ! Les nuages ! Au-dessus des hommes et des rois, dont tout le monde entend le tonnerre, qui sont passagers et dont la pluie nourrit le sol ! Je me maudis intérieurement. Par ma faute, nous allions être dégustés par trois monstres affamés. Les nains grognèrent et se débattirent mais rien ne semblait pouvoir inverser le cours de la situation./l/{PLAY:10.4_gandalf}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "9.2",
-		"Text": "/a/Mais, alors que je préparais mon action, je me rendis à l'évidence. Qu'espérais-je, moi, un simple Hobbit, faire contre trois massifs Trolls ? Rien. Strictement rien. Le désespoir me saisit alors. À quelle sauce allions-nous êtres mangés ? Mais oui ! À quelle sauce, en effet ? C'est la question que je décidai de poser aux créatures qui, de toute évidence, n'en avait aucune idée./ll//a/Celui qui s'improvisait cuisinier se nommait Bill, et désirait nous faire bouillir dans son immense marmite. Le deuxième, nommé Bert, semblait plus intéressé par une cuisson à la broche. Quant au troisième, Tom, il avait évoqué l'idée de s'asseoir sur nous pour en faire de la bouillie, ce qui déplaisait beaucoup aux nains. Quoiqu'il en soit, les graînes de la discorde étaient semées et les Trolls passèrent une heure à débattre, plus ou moins violemment. Pendant ce temps, nous réussîmes à nous faire assez petits pour qu'ils nous ignorent.{PLAY:10.4_gandalf}",
+		"Text": "/a/Mais, alors que je préparais mon action, je me rendis à l'évidence. Qu'espérais-je, moi, un simple Hobbit, faire contre trois massifs Trolls ? Rien. Strictement rien. Le désespoir me saisit alors. À quelle sauce allions-nous êtres mangés ? Mais oui ! À quelle sauce, en effet ? C'est la question que je décidai de poser aux créatures qui, de toute évidence, n'en avait aucune idée./ll//p//a/Celui qui s'improvisait cuisinier se nommait Bill, et désirait nous faire bouillir dans son immense marmite. Le deuxième, nommé Bert, semblait plus intéressé par une cuisson à la broche. Quant au troisième, Tom, il avait évoqué l'idée de s'asseoir sur nous pour en faire de la bouillie, ce qui déplaisait beaucoup aux nains. Quoiqu'il en soit, les graînes de la discorde étaient semées et les Trolls passèrent une heure à débattre, plus ou moins violemment. Pendant ce temps, nous réussîmes à nous faire assez petits pour qu'ils nous ignorent.{PLAY:10.4_gandalf}",
 		"Outcomes":
 		{
 		}
@@ -549,21 +549,21 @@
 	},
 	{
 		"Name": "10.2_versRivendell",
-		"Text": "/a/Le raffut provoqué par les combats permis à gandalf de nous retrouver,nos retrouvailes nous fîmes nous rendrent compte qu'il s'était absenté, mais visiblement personne ne s'en étonnait./l/Il pu constater avec surprise que nous étiont venu a bout des Trolls!/l/C'est donc erreintés mais bien vivants que nous reprîmes la route vers l'Est./l/{GOTO:MAP}",
+		"Text": "/a/Le raffut provoqué par les combats permis à gandalf de nous retrouver,nos retrouvailes nous fîmes nous rendrent compte qu'il s'était absenté, mais visiblement personne ne s'en étonnait./l//p/Il pu constater avec surprise que nous étiont venu a bout des Trolls!/l/C'est donc erreintés mais bien vivants que nous reprîmes la route vers l'Est./l/{GOTO:MAP}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "10.3_versColdfells",
-		"Text": "/a/C'est au Nord de la forêt que nous rejoigîmes Gandalf, nos retrouvailes nous fîmes nous rendrent compte qu'il n'était plus avec nous dans la forêt, mais visiblement personne ne s'en étonnait./l/Nous étions sorti du périmètre du camp troll discrètement mais il ne fallait pas trainer dans le coin, nous avons préssé le pas pour rejoindre notre prochaine destination/l/{GOTO:MAP}",
+		"Text": "/a/C'est au Nord de la forêt que nous rejoigîmes Gandalf, nos retrouvailes nous fîmes nous rendrent compte qu'il n'était plus avec nous dans la forêt, mais visiblement personne ne s'en étonnait./l//p/Nous étions sorti du périmètre du camp troll discrètement mais il ne fallait pas trainer dans le coin, nous avons préssé le pas pour rejoindre notre prochaine destination/l/{GOTO:MAP}",
 		"Outcomes":
 		{
 		}
 	},
 	{
 		"Name": "10.4_gandalf",
-		"Text": "Un bruissement. Un mouvement furtif. Seul moi décela ces quelques imperfections qui dérangent le calme de la nuit mourante. Une biche ? Un chevreuil ? Impossible, aucun animal ne saurait se risquer si près de ces monstres, toujours plongés dans leur dispute./l//a/- Que l'aube soit pour vous de pierre !/l//a/Gandalf ! C'était Gandalf ! À ces mots, il frappa de son bâton l'énorme rocher sur lequel il avait grimpé, et celui-ci se scinda en deux, révélant un soleil naissant, déjà éclatant. À cette vue, les Trolls hurlèrent de terreur et tentèrent de se masquer le visage. Leurs bras et leurs mains commencèrent à craqueler tandis qu'ils continuaient à crier. Je plissai les yeux et je compris alors : ils se changeaient en pierre ! Les Trolls, à cause du soleil, se transformaient en pierre ! Ils se contortionnèrent encore quelques instants, puis plus rien. Leurs cris avaient laissé la place à un silence, à un instant en suspension. Étions-nous sauvés ? Cela était-il réel ? En descendant de son rocher et en se dirigeant vers nous en souriant, Gandalf balaya ces interrogations. Oui, nous étions bel et bien hors de danger !/ll//a/Débarrassés des cordes, étirés, relevés, les nains étaient de piètre humeur et semblaient me tenir responsable des maux qui leur étaient tombés dessus, lorsque Gandalf intervint pour dire que, sans mon intervention, nous aurions tous fini dans l'estomac des Trolls. Cela les calma un peu et il me remercièrent timidement. C'est erreintés mais bien vivants que nous reprîmes la route vers l'Est./l/{GOTO:MAP}",
+		"Text": "Un bruissement. Un mouvement furtif. Seul moi décela ces quelques imperfections qui dérangent le calme de la nuit mourante. Une biche ? Un chevreuil ? Impossible, aucun animal ne saurait se risquer si près de ces monstres, toujours plongés dans leur dispute./l//p//a/- Que l'aube soit pour vous de pierre !/l//a/Gandalf ! C'était Gandalf ! À ces mots, il frappa de son bâton l'énorme rocher sur lequel il avait grimpé, et celui-ci se scinda en deux, révélant un soleil naissant, déjà éclatant. À cette vue, les Trolls hurlèrent de terreur et tentèrent de se masquer le visage. Leurs bras et leurs mains commencèrent à craqueler tandis qu'ils continuaient à crier. Je plissai les yeux et je compris alors : ils se changeaient en pierre ! Les Trolls, à cause du soleil, se transformaient en pierre ! Ils se contortionnèrent encore quelques instants, puis plus rien. Leurs cris avaient laissé la place à un silence, à un instant en suspension. Étions-nous sauvés ? Cela était-il réel ? En descendant de son rocher et en se dirigeant vers nous en souriant, Gandalf balaya ces interrogations. Oui, nous étions bel et bien hors de danger !/ll//p//a/Débarrassés des cordes, étirés, relevés, les nains étaient de piètre humeur et semblaient me tenir responsable des maux qui leur étaient tombés dessus, lorsque Gandalf intervint pour dire que, sans mon intervention, nous aurions tous fini dans l'estomac des Trolls. Cela les calma un peu et il me remercièrent timidement. /p//a/C'est erreintés mais bien vivants que nous reprîmes la route vers l'Est./l/{GOTO:MAP}",
 		"Outcomes":
 		{
 		}
